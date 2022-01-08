@@ -1,5 +1,5 @@
-# HomeFood
-This is a Dynamic Website
+# HomeFood 🌭
+This is a Dynamic Food Ordering Website 🍟
 
 ## Features
 - User and guest checkout capabilities.
